@@ -1,11 +1,21 @@
-# Password Generator
+```markdown
+# 🔐 Password Generator (CLI Tool)
 
-A simple Python script to generate strong, random passwords.  
-Choose length, symbols, digits, and get a secure password instantly!
+A beginner-friendly Python script to generate strong, random passwords of custom length.
 
-## How to use
+## ✅ Features
 
-Run the script:
+- Choose the desired length for your password
+- Randomly generates secure passwords
+- Uses uppercase, lowercase, numbers, and symbols
+- Easy to use via command line
+
+## 📦 Tech Stack
+
+- Python
+- `random` and `string` libraries
+
+## 🚀 How to Run
 
 ```bash
-python password_generator.py
+python generator.py
